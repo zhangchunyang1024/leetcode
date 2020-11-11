@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99c1891e-8d35-4a3e-98f2-df493546bbb2" name="Default" comment="" />
+    <list default="true" id="99c1891e-8d35-4a3e-98f2-df493546bbb2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bite/l0136/Bit136Yang.java" afterPath="$PROJECT_DIR$/src/main/java/bite/l0136/Bit136Yang.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="Bit136Yang.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/bite/l0136/Bit136Yang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="281">
+              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -91,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/test/java/bite/Zhang136Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/bite/l0136/BitYang136.java" />
         <option value="$PROJECT_DIR$/src/test/java/bite/BitYang136Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bite/l0136/Bit136Yang.java" />
       </list>
     </option>
   </component>
@@ -1046,7 +1050,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605081834891</updated>
-      <workItem from="1605081837818" duration="3900000" />
+      <workItem from="1605081837818" duration="4177000" />
     </task>
     <servers />
   </component>
@@ -1062,7 +1066,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3900000" />
+    <option name="totallyTimeSpent" value="4177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1131,8 +1135,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/bite/l0136/Bit136Yang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="281">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding />
         </state>
       </provider>

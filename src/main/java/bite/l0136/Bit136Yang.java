@@ -23,9 +23,10 @@ public class Bit136Yang
      * 1. a ^ a = 0
      * 2. a ^ b = b ^ a, a ^ b ^ c = b ^ a ^ c
      * 3. a ^ 0 = a
-     *
+     * <p>
+     * <p>
      * 由以上可以得出：
-     *      a ^ b ^ b ^ c ^ c = a // 且结果和等式左边参与计算的元素的顺序无关
+     * a ^ b ^ b ^ c ^ c = a // 且结果和等式左边参与计算的元素的顺序无关
      */
     public int onlyOne(int[] arrs)
     {
